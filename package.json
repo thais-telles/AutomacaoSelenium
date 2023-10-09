@@ -1,0 +1,15 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "main": "tarefa1_selenium.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chromedriver": "^117.0.3",
+    "selenium-webdriver": "^4.13.0"
+  }
+}
