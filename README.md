@@ -1,4 +1,4 @@
-# AutomatizacaoSelenium
+# Automatização Selenium
 
 Tarefa 1 Selenium
 
